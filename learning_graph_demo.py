@@ -5,7 +5,7 @@
 #
 # To run, call in ipython:
 #
-# run clique_demo.py
+# run learning_graph_demo.py
 #
 # Computes:
 #
