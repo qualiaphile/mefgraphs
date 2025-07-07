@@ -4,6 +4,10 @@
 A minimal implementation of learning graphs and their isomorphism classes
 using Minimum Energy Flow (MEF) learning in McCulloch-Pitts neural networks
 
+https://www.mdpi.com/1099-4300/23/11/1494
+
+https://mathematical-neuroscience.springeropen.com/articles/10.1186/s13408-017-0056-2
+
 ## Installation
 
 1.  **Clone the repository:**
