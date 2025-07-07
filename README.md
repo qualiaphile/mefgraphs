@@ -25,12 +25,12 @@ using Minimum Energy Flow (MEF) learning in McCulloch-Pitts neural networks
     ```
     If `requirements.txt` is not available, you might need to install common libraries for NeRF projects, such as:
     ```bash
-    pip install torch torchvision torchaudio numpy matplotlib imageio tqdm configargparse opencv-python
+    pip install numpy matplotlib ipython
     ```
 
 ## Usage
 
-The primary script for making figures with small numnbers of vertices V is `learning_graph_demo.py`.
+The primary script for making figures with small numbers of vertices V is `learning_graph_demo.py`.
 
 **Example:**
 
